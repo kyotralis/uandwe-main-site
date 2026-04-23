@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/recruitment",
+      "destination": "https://recruitment-frontend-pi.vercel.app",
+      "permanent": false
+    }
+  ]
+}
